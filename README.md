@@ -7,4 +7,4 @@ This is a repository to keep up my current progress on IBM's Introduction to Qua
 > Current
 - I am currently learning from the amazing course offered by [IBM](https://github.com/TheGupta2012/MyQuantum/tree/master/IBM%20Quantum) and doing a little bit of self learning from *qiskit-textbook*. [This](https://github.com/TheGupta2012/MyQuantum/tree/master/my_qiskit) is what I have so far :crossed_fingers:
 
-## Additions Iminent :construction:
+## Additions Imminent :construction:
