@@ -7,6 +7,6 @@ This is a repository to keep up my current progress on IBM's Introduction to Qua
 > Current
 - I am currently learning from the amazing course offered by [IBM](https://github.com/TheGupta2012/MyQuantum/tree/master/IBM%20Quantum) and doing a little bit of self learning from *qiskit-textbook*. [This](https://github.com/TheGupta2012/MyQuantum/tree/master/my_qiskit) is what I have so far :crossed_fingers:
 - Started a new blog on my learnings which goes by the name of **The Uncertainist** because, let's be honest, you can't be so sure of yourself while learning quantum :exploding_head: ! Anyway its just an attempt at understanding things better little by little
-> Feel free to have a [read](https://harshitco19.wixsite.com/my-site)!
+> Feel free to have a [read](https://harshitco19.wixsite.com/uncertainist)!
 
 ## Additions Imminent :construction:
