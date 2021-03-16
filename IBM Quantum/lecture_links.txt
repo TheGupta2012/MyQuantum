@@ -1,0 +1,32 @@
+
+QUANTUM STACK
+https://www.youtube.com/watchv=Ivo8j29vPWg&feature=youtu.be
+
+QUANTUM MECHANICS 1
+https://www.youtube.com/watch?v=8bp42xkbP6w
+
+QUANTUM MECHANICS 2
+https://www.youtube.com/watch?v=WQEk2QYJ0VE
+
+QUANTUM MECHANICS 3
+https://www.youtube.com/watch?v=C2iVu1K6EEs
+
+Qubit and Bloch Sphere
+https://www.youtube.com/watch?v=zO_NFt2Z_e8
+
+Quantum Circuit Model
+https://www.youtube.com/watch?v=z-mXsFk_A9I
+
+Qiskit - Intro
+https://www.youtube.com/watch?v=leOX7LXVCEI
+
+Quantum Circuit - multiqubit maths
+https://www.youtube.com/watch?v=TeC1B6Av0xo
+
+Super Dense Coding an teleportation
+https://www.youtube.com/watch?v=KU6SiwzG47I
+
+Quantum Key Distribution
+https://www.youtube.com/watch?v=L3qzRf59Nr8
+
+
