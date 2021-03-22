@@ -1,0 +1,29 @@
+Numpy
+https://www.youtube.com/watch?v=3YgoCps95BI
+
+QM - 1
+https://www.youtube.com/watch?v=65DkxDNg8MA
+
+QM - 2
+https://www.youtube.com/watch?v=Eu0OqkcCaAw
+
+QM - 3
+https://www.youtube.com/watch?v=rsPwhaZMaF4
+
+Bloch Sphere
+https://www.youtube.com/watch?v=XQcAdGfrjzg
+
+IBM-Q
+https://www.youtube.com/watch?v=8wqyb0p6iz0
+
+Intro to Qiskit
+https://www.youtube.com/watch?v=ZYaEGG1Wgh0
+
+Tensor Products 
+https://www.youtube.com/watch?v=_iC7LdYujiA
+
+Super Dense Coding
+https://www.youtube.com/watch?v=fQK04zdjCQ4
+
+QKD LAB
+https://www.youtube.com/watch?v=1ZAfUMqwnuc
