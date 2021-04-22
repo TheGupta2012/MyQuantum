@@ -33,3 +33,6 @@ https://www.youtube.com/watch?v=qiBIN-3Zbvc
 
 Grover's LAB
 https://www.youtube.com/watch?v=z5p56BwaOvw
+
+Hardware Lab - Randomized benchmarking
+https://www.youtube.com/watch?v=itb086WgK8g

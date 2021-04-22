@@ -31,10 +31,21 @@ https://www.youtube.com/watch?v=leOX7LXVCEI
 Quantum Circuit - multiqubit maths
 https://www.youtube.com/watch?v=TeC1B6Av0xo
 
-Super Dense Coding an teleportation
+Super Dense Coding and teleportation
 https://www.youtube.com/watch?v=KU6SiwzG47I
 
 Quantum Key Distribution
 https://www.youtube.com/watch?v=L3qzRf59Nr8
+
+Intro to Quantum Algos
+https://www.youtube.com/watch?v=zXXFhTe5pPY
+
+Grover Search
+https://www.youtube.com/watch?v=8MZzSJrYYAo
+
+Quantum Hardware
+https://www.youtube.com/watch?v=4DQ2G-TJcVI
+
+
 
 
