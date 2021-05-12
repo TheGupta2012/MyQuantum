@@ -37,3 +37,8 @@ https://www.youtube.com/watch?v=z5p56BwaOvw
 Hardware Lab - Randomized benchmarking
 https://www.youtube.com/watch?v=itb086WgK8g
 
+Overview Lab
+https://www.youtube.com/watch?v=9hI7H_EtS2I
+
+QAOA Lab
+https://www.youtube.com/watch?v=48-6e0jZDkA
