@@ -1,0 +1,12 @@
+Superscript
+ᵃ ᵇ ᶜ ᵈ ᵉ ᶠ ᵍ ʰ ᶦ ʲ ᵏ ˡ ᵐ ⁿ ᵒ ᵖ ʳ ˢ ᵗ ᵘ ᵛ ʷ ˣ ʸ ᶻ
+
+Subscript
+ ₕ ᵢ ⱼ ₖ ₗ ₘ ₙ ₒ ₚ ᵩ ᵣ ₛ ₜ ᵤ ᵥ 
+
+Numbers
+
+Superscript
+⁰ ¹ ² ³ ⁴ ⁵ ⁶ ⁷ ⁸ ⁹
+Subscript
+₀ ₁ ₂ ₃ ₄ ₅ ₆ ₇ ₈ ₉
